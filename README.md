@@ -1,94 +1,58 @@
-<h1 align="center">Hi 👋, I'm Rahul Howale</h1>
-<h3 align="center">Master's Engineering Student | Full Stack Developer | Placement Focused 🚀</h3>
+# Rahul Howale
+
+Master's Engineering Student | Full Stack Developer
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Master's student in Engineering
-- 💻 Passionate about **Web Development & Full Stack Development**
-- 🌱 Currently learning and improving in:
-  - Data Structures & Algorithms
-  - DBMS & SQL
-  - MERN Stack
-  - Java & Python
-- 🎯 Preparing for Product & Service-based company placements
-- 🧠 Strong interest in solving real-world problems using technology
-- 📚 Always in learning & adapting phase
+I am a Master's Engineering student focused on Full Stack Development and backend engineering. I enjoy building structured, scalable web applications and continuously improving my problem-solving skills.
+
+Currently strengthening:
+- Data Structures & Algorithms
+- DBMS & Advanced SQL
+- Backend Development (MERN + Java)
+- Interview Preparation for Product & Service-based companies
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
-- Java
-- Python
-- JavaScript
-- SQL
+**Languages:**  
+Java, Python, JavaScript, SQL  
 
-### 🌐 Web Development
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript (ES6+)
-- React.js
-- Node.js
-- Express.js
+**Frontend:**  
+HTML5, CSS3, Bootstrap, React.js  
 
-### 🗄️ Database
-- MySQL
-- MongoDB
+**Backend:**  
+Node.js, Express.js  
 
-### ⚙️ Tools & Platforms
-- Git & GitHub
-- VS Code
-- MySQL Workbench
-- Postman
-- Windows 11
+**Database:**  
+MySQL, MongoDB  
+
+**Tools:**  
+Git, GitHub, VS Code, Postman  
 
 ---
 
-## 📌 Current Focus
+## What I Focus On
 
-- 🔹 Building full-stack projects (MERN & Java + MySQL)
-- 🔹 Strengthening DBMS & SQL concepts
-- 🔹 Practicing coding problems regularly
-- 🔹 Improving communication & GD skills
-- 🔹 Preparing for technical interviews (OOPs, SQL, Core CS)
-
----
-
-## 🚀 Projects
-
-🔹 Web Applications using HTML, CSS, JS, Bootstrap & MySQL  
-🔹 MERN Stack based Full Stack Applications  
-🔹 Java-based backend systems  
-
-*(More projects coming soon — building consistently!)*
+- Writing clean and readable code
+- Understanding core CS fundamentals
+- Building full-stack applications
+- Improving database design skills
+- Consistent learning and improvement
 
 ---
 
-## 📈 GitHub Goals
+## Current Goal
 
-- Contribute consistently
-- Build unique projects
-- Maintain clean and readable code
-- Document everything properly
-- Improve problem-solving daily
+To become a strong backend-focused full stack developer and secure a role where I can work on real-world scalable systems.
 
 ---
 
-## 🤝 Let's Connect
+## Contact
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: Add your LinkedIn link
-- 🌍 Portfolio: Add your portfolio link (if available)
-
----
-
-### 💡 Quote I Believe In
-> “Consistency beats talent when talent doesn’t work consistently.”
-
----
-
-⭐ If you like my work, consider giving a star to my repositories!
+Email: your-email@example.com  
+LinkedIn: Your LinkedIn URL  
+GitHub: https://github.com/YOUR_USERNAME
