@@ -1,84 +1,73 @@
-<!-- Animated Header -->
-<h1 align="center">Hi 👋, I'm Rahul Howale</h1>
+# Rahul Howale
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Java+%7C+Python+Developer;Master's+Engineering+Student;Placement+Focused+Learner&center=true&width=500&height=45">
-</p>
+## Master's Engineering Student | Full Stack Developer
 
 ---
 
-## 🚀 About Me
+## Professional Summary
 
-🎓 Master's Engineering Student  
-💻 Full Stack Developer (MERN + Java + MySQL)  
-🧠 Strong in DBMS, OOPs & SQL  
-🎯 Preparing for Product & Service-based Companies  
-🌱 Currently improving DSA & System Design basics  
+Detail-oriented and highly motivated Full Stack Developer with hands-on experience in MERN stack, Java, and MySQL. Strong foundation in DBMS, OOPs, and SQL with a consistent focus on writing clean, maintainable code. Actively preparing for product and service-based company roles.
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js" />
-</p>
+**Languages:**  
+Java, Python, JavaScript, SQL  
 
-### 🌐 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
-</p>
+**Frontend:**  
+HTML5, CSS3, Bootstrap, React.js  
 
-### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+**Backend:**  
+Node.js, Express.js  
 
-### 🗄️ Database
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+**Database:**  
+MySQL, MongoDB  
 
-### 🧰 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+**Tools:**  
+Git, GitHub, VS Code, Postman, MySQL Workbench  
 
 ---
 
-## 📊 GitHub Stats
+## Key Strengths
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## 🔥 Current Focus
-
-- 🧩 Daily DSA Practice
-- 🗃️ Advanced SQL Queries
-- 🌐 Full Stack MERN Projects
-- 💼 Interview Preparation (OOPs, DBMS, OS Basics)
+- Strong understanding of DBMS concepts (Normalization, Indexing, Joins)
+- Good grasp of Object-Oriented Programming principles
+- REST API development
+- CRUD application development
+- Basic understanding of system design concepts
+- Comfortable with debugging and problem solving
 
 ---
 
-## 🏆 Goals 2026
+## Projects Overview
 
-✔ Build 5+ Production Level Projects  
-✔ Crack Product-Based Company  
-✔ Master Backend Development  
-✔ Contribute to Open Source  
+- Developed Full Stack Web Applications using MERN stack
+- Built Java + MySQL backend systems
+- Implemented authentication and database integration
+- Designed responsive UI using Bootstrap
 
----
-
-## 🤝 Connect With Me
-
-📧 Email: your-email@example.com  
-💼 LinkedIn: Your LinkedIn URL  
-🌐 Portfolio: Your Portfolio URL  
+(Project repositories available below)
 
 ---
 
-⭐ *“Consistency > Motivation”*
+## Current Focus
+
+- Data Structures & Algorithms
+- Advanced SQL
+- Backend optimization
+- Interview preparation
+
+---
+
+## Career Objective
+
+To secure a challenging role in a reputed organization where I can apply my technical knowledge, grow as a developer, and contribute meaningfully to business solutions.
+
+---
+
+## Contact
+
+Email: your-email@example.com  
+LinkedIn: Your LinkedIn URL  
+GitHub: https://github.com/YOUR_USERNAME
