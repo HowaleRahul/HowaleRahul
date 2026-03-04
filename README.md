@@ -2,7 +2,7 @@
 
 🎓 MCA Student  
 💻 Backend / Full Stack Developer  
-🚀 Currently learning Node.js, Express.js and React
+🚀 Currently learning Node.js, Express.js and React  
 📍 India  
 
 ---
