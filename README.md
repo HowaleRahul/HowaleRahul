@@ -1,6 +1,6 @@
 # Rahul Howale
 
-Software Developer | MCA Candidate | Backend & Full Stack Enthusiast  
+Software Developer | MCA | Backend & Full Stack Enthusiast  
 Nashik, Maharashtra, India  
 
 📧 howalerahul1@gmail.com  
@@ -9,23 +9,19 @@ Nashik, Maharashtra, India
 
 ---
 
-## Professional Summary
+## Career Objective
 
-Enthusiastic software developer with strong academic background and hands-on project experience in Java, Python (Flask), and web technologies. 
-
-Experienced in building full-stack applications using MVC architecture with a solid understanding of Object-Oriented Programming, Data Structures & Algorithms, and Software Development Life Cycle (SDLC).
-
-Focused on writing structured, scalable, and maintainable code while continuously strengthening core computer science fundamentals.
+To contribute to a technology-driven organization where I can apply programming fundamentals, backend development skills, and problem-solving abilities to build scalable and impactful software systems.
 
 ---
 
 ## Technical Skills
 
-### Programming
+### Programming $ Technologies
 - Java (Core Java, JSP, Servlet, JDBC)
 - Python (Core, Flask)
-
-### Web Technologies
+- Express
+- Node
 - HTML5
 - CSS3
 - JavaScript
@@ -33,19 +29,8 @@ Focused on writing structured, scalable, and maintainable code while continuousl
 
 ### Databases
 - MySQL
-- SQL Server
-
-### Tools
-- Eclipse
-- VS Code
-- GitHub
-
-### Core Concepts
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- MVC Architecture
-- Software Development Life Cycle (SDLC)
-
+- MongoDB
+  
 ---
 
 ## Academic Projects
@@ -59,7 +44,6 @@ Focused on writing structured, scalable, and maintainable code while continuousl
 - Eliminated billing errors through automated lifecycle tracking.
 - Built admin analytics dashboard (daily, weekly, monthly reports).
 - Implemented scheduled & bulk ordering with live notifications.
-- Published research paper in IRJIET (Volume 9, Issue 11).
 
 ---
 
@@ -73,33 +57,12 @@ Focused on writing structured, scalable, and maintainable code while continuousl
 
 ---
 
-## Research & Certifications
+## Research Paper
 
 - Research Paper Published:  
   "CampusEats – Online Canteen Food Ordering for MET Campus"  
   IRJIET, Volume 9, Issue 11  
   DOI: 10.47001/IRJIET/2025.911011  
-
-- Java Fundamentals – Oracle Academy (Nov 2025)
-
 ---
+## ThankYou
 
-## Leadership & Activities
-
-- Managed State-Level Coding Competition “Code Trace”  
-  MET Institute of Engineering, Nashik (Aug 2025)
-
----
-
-## Current Focus
-
-- Strengthening Data Structures & Algorithms  
-- Advanced SQL & Query Optimization  
-- Backend System Design Basics  
-- Preparing for Product & Service-Based Company Roles  
-
----
-
-## Career Objective
-
-To contribute to a technology-driven organization where I can apply strong programming fundamentals, backend development skills, and problem-solving abilities to build scalable and impactful software systems.
