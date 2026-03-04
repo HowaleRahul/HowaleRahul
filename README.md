@@ -1,4 +1,4 @@
-# Hi 👋 I'm Rahul Howale
+# Rahul Howale
 
 🎓 MCA Student  
 💻 Backend / Full Stack Developer  
@@ -23,25 +23,12 @@ I enjoy learning how backend systems work, designing APIs, and working with data
 
 ## 🛠 Tech Stack
 
-### Languages
-- Java
-- JavaScript
-- SQL
-- Python
-
-### Frontend
-- HTML
-- CSS
-- Bootstrap
-- React
-
-### Backend
-- Node.js
-- Express.js
-
-### Databases
-- MySQL
-- MongoDB
+| Category   | Technologies |
+|------------|--------------|
+| Languages  | Java, JavaScript, SQL, Python |
+| Frontend   | HTML, CSS, Bootstrap, React |
+| Backend    | Node.js, Express.js |
+| Databases  | MySQL, MongoDB |
 
 ---
 
