@@ -1,39 +1,51 @@
-# Rahul Howale
+# Hi 👋 I'm Rahul Howale
 
-Software Developer | MCA | Backend & Full Stack Enthusiast  
-Nashik, Maharashtra, India  
-
-📧 howalerahul1@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/rahul-howale1  
-💻 GitHub: https://github.com/HowaleRahul  
+🎓 MCA Student  
+💻 Backend / Full Stack Developer  
+🚀 Currently learning Node.js, Express.js and React
+📍 India  
 
 ---
 
-## Career Objective
+## 👨‍💻 About Me
 
-To contribute to a technology-driven organization where I can apply programming fundamentals, backend development skills, and problem-solving abilities to build scalable and impactful software systems.
+I am an MCA student passionate about backend development and building scalable web applications.  
+Currently I am learning modern web development technologies like Node.js, Express and React.
+
+I enjoy learning how backend systems work, designing APIs, and working with databases.
+
+- 🔭 Currently working on improving backend development skills
+- 🌱 Learning Node.js ecosystem and modern web stacks
+- 💡 Interested in Backend Engineering & System Design
+- 🎯 Goal: Become a strong backend developer
 
 ---
 
-## Technical Skills
+## 🛠 Tech Stack
 
-### Programming & Technologies
-- Java (Core Java, JSP, Servlet, JDBC)
-- Python (Core, Flask)
-- Express
-- Node
-- HTML5
-- CSS3
+### Languages
+- Java
 - JavaScript
+- SQL
+- Python
+
+### Frontend
+- HTML
+- CSS
 - Bootstrap
+- React
+
+### Backend
+- Node.js
+- Express.js
 
 ### Databases
 - MySQL
 - MongoDB
-  
+
 ---
 
-## Academic Projects
+## 🚀 Projects
 
 ### 1. CampusEats (Full Stack Web Application)
 **Tech Stack:** Python (Flask), MySQL, HTML, CSS, JavaScript  
@@ -53,13 +65,24 @@ To contribute to a technology-driven organization where I can apply programming 
 - Implemented secure login system with role-based access.
 - Integrated certification-based online assessments.
 - Built using MVC architecture principles.
+- 
+---
+
+## 📚 Currently Learning
+
+- Backend architecture
+- REST API design
+- PostgreSQL with Node.js
+- Authentication & security
+- Writing clean backend code
 
 ---
 
-## Research Paper
+## 🌐 Connect With Me
 
-- Research Paper Published:  
-  "CampusEats – Online Canteen Food Ordering for MET Campus"  
-  IRJIET, Volume 9, Issue 11  
-  DOI: 10.47001/IRJIET/2025.911011  
+- LinkedIn: https://linkedin.com/in/rahul-howale1
+- Email: howalerahul1@gmail.com
+
 ---
+
+⭐ Always learning, building, and improving as a developer.
